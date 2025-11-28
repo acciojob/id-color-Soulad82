@@ -2,6 +2,9 @@
 	background-color: yellow;
 	border-top-style: 1px;
 	border-top-width: 1px;
+	border-bottom-width:1px;
+	border-left-width: 1px;
+	border-right-width:1px;
 	border-style: solid;
 	border-color: green;
 }
@@ -9,13 +12,18 @@
 	background-color: red;
 	border-top-style: 1px;
 	border-top-width: 1px;
+	border-bottom-width:1px;
+	border-left-width: 1px;
+	border-right-width:1px;
 	border-style: solid;
 	border-color: black;
 }
 #green {
 	background-color: green;
-	border-top-style: 1px;
 	border-top-width: 1px;
+	border-bottom-width:1px;
+	border-left-width: 1px;
+	border-right-width:1px;
 	border-style: solid;
 	border-color: yellow;
 }
